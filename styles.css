@@ -1,0 +1,48 @@
+#main-title {
+    font-family: Helvetica;
+    font-size: 80px;
+    text-align: center;
+    font-weight: bold;
+    color: black;
+    background-image: url(https://content.codecademy.com/courses/freelance-1/unit-2/pattern.jpeg);
+}
+
+.syntax {
+    background-color: azure;
+}
+
+.syntax:hover {
+    background-color: brown;
+    font-size: 45px ;
+    transition: background-color .5s
+}
+
+footer p {
+    font-size: 25px;
+    font-weight: bold;
+
+}
+
+table {
+    margin-left: auto;
+    margin-right: auto;
+}
+
+td {
+    text-align: center;
+    background-color: bisque;
+}
+
+th {
+    background-color: aqua;
+}
+
+th,
+td {
+  border: 1px solid black;
+  width: 1000px;
+  font-size: 40px;
+}
+
+
+
